@@ -4,7 +4,7 @@ title: "Actors in Numbers : a Data Analysis of the Egyptian Cinema"
 category: Data Analysis
 ---
 
-> *Disclaimer: All data used in this article has been scraped from [elCinema](https://elcinema.com). Due to the high probability of the website missing some information, it might be wise to take the shown statistics with a grain of salt. The scrapper and all generated data files can be found on my [GitHub](https://github.com/nyuriumuri/Actors_in_Numbers_data)*  
+> *Disclaimer: All data used in this article has been scraped from [elCinema](https://elcinema.com). Due to the high probability of the website missing some information, it might be wise to take the shown statistics with a grain of salt. The scrapper, all generated data files, and the python code for the plots can be found on my [GitHub](https://github.com/nyuriumuri/Actors_in_Numbers_data)*  
 
 In this article, we will be using data from [elCinema](https://elcinema.com) to try and identify some of the most prominent actors of the Egyptian cinema. Due to the lack of reliable ratings and sales figures on movies earlier than 2010, the criterion used here will just be the number of movies an actor participated in (as an actor). The first section will cover the 5 actors with the largest total number of works, and will include some analysis on their activities and movies. In the second section, the most common genres and the actors who contributed the most in them will similarly be identified.
 
