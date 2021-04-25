@@ -32,4 +32,4 @@ At the end of each day, you'll get the chance to restock on ingredients, an act 
 \
 All visual assets including menus, icons, UI, and set design were designed by my good friend Miral Khafagy. You can find some of her other works [here](https://www.behance.net/miralkhafagy)
 
-The playable game can be downloaded from my [itch.io](https://gurinucida.itch.io/2ahwa-ya-basha-download)
+2ahwa Ya Basha can be downloaded and played from [itch.io](https://gurinucida.itch.io/2ahwa-ya-basha-download)
