@@ -41,3 +41,6 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+assets/images/EgyptianMovies/siege of acre.jpg
+maxSubArray.cpp
+test.py
