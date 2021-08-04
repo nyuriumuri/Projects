@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TicTacToe Game Made With React"
+title: "TicTacToe Game (With AI) Made With React"
 category: Games
 ---
 The game can be played [here](https://nyuriumuri.github.io/tictactoe-react-game).
