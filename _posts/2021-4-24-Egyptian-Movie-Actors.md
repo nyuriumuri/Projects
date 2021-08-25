@@ -3,6 +3,7 @@ layout: post
 title: "Actors in Numbers : a Data Analysis of the Egyptian Cinema"
 category: Data Analysis
 hidden: true
+published: false
 ---
 
 > *Disclaimer: All data used in this article has been scraped from [elCinema](https://elcinema.com). Due to the high probability of the website missing some information, it might be wise to take the shown statistics with a grain of salt. The scrapper, all generated data files, and the python code for the plots can be found on my [GitHub](https://github.com/nyuriumuri/Actors_in_Numbers_data)*  
