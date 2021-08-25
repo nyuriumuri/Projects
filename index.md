@@ -6,7 +6,7 @@ title: About
 
 Hello there!
 
-I'm a Computer Engineering / Philosophy undergraduate. I have interests in Machine Learning, Data Analysis, Games, and Applied (virtue) Ethics.
+I'm a Computer Engineering / Philosophy undergraduate. I have interests in Front-end, Game Development, and Applied (virtue) Ethics.
 
 I post stuff here from time to time.
 \
