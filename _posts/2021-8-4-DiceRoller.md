@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Simple Generic Dice Roller Made With Ionic-React"
-category: Games
+category: Web Apps
 ---
-The app can be found [here](https://nyuriumuri.github.io/DiceRoller/).
+>*The app can be found [here](https://nyuriumuri.github.io/DiceRoller/).*
 
 I have been getting into TTRPGs lately, so I thought it might be fun if I could make my own dice roller with all the features I'd like to find in a (preferably free) app.
 \
