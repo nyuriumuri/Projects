@@ -22,4 +22,6 @@ Some examples of tierlists you can make:
 
 
 *Notes:*
-- *The screenshot feature only works on firefox at the moment*
+- ~~*The screenshot feature only works on firefox at the moment*~~
+
+**Update 11/3/2022**: I've switched libraries to html2canvas and the screenshot feature should work on most browsers now :)
