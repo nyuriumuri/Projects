@@ -11,7 +11,10 @@ I'm a Computer Engineering / Philosophy undergraduate. I have interests in Front
 I post stuff here from time to time.
 \
 \
-[GitHub](https://github.com/nyuriumuri)
+[GitHub](https://github.com/nyuriumuri) 
+
+[CV]({{site.baseurl}}/assets/cv.pdf)
+
 
 Email: nyuriumuri@gmail.com
 
